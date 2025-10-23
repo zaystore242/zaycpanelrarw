@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>Zaymarket | Login</title>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css" />
+</head>
+<body>
+  <div class="pixel-grid"></div>
+  <div class="overlay"></div>
+
+  <div class="loading-screen" id="loadingScreen">
+    <div class="block-loader">
+      <div class="block"></div>
+      <div class="block"></div>
+      <div class="block"></div>
+    </div>
+    <div class="loading-text">Loading...</div>
+  </div>
+
+  <div class="login-container" id="loginContainer">
+    <h1>ZAYMARKET LOGIN</h1>
+    <form id="loginForm">
+      <input type="text" name="username" placeholder="Username" required />
+      <input type="password" name="password" placeholder="Password" required />
+      <select id="roleSelect" name="role" required>
+        <option value="">-- Pilih Role --</option>
+        <option value="user">User</option>
+        <option value="admin">Admin</option>
+      </select>
+      <button type="submit">Login</button>
+    </form>
+    <div class="footer">© 2025 Kenzie</div>
+  </div>
+
+  <script src="/js"></script>
+</body>
+</html>

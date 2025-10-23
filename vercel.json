@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "index.js", "use": "@vercel/node" }
+  ],
+  "routes": [
+    {
+      "src": "^/settings\\.json$",
+      "headers": { "Location": "/settings" },
+      "status": 301
+    },
+    {
+      "src": "^/vercel\\.json$",
+      "headers": { "Location": "/vercel" },
+      "status": 301
+    },
+    {
+      "src": "^/package(-lock)?\\.json$",
+      "headers": { "Location": "/package" },
+      "status": 301
+    },
+    {
+      "src": "^/(.*)\\.(js|css|json|html)$",
+      "dest": "/404.html"
+    },
+    {
+      "src": "^/(css|js|cuser|juser|cadmin|jadmin|val|set)$",
+      "dest": "/index.js"
+    },
+    {
+      "src": "/(.*)\\.js$",
+      "headers": { "Location": "/$1" },
+      "status": 301
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.js"
+    }
+  ],
+  "env": { "NODE_ENV": "production" }
+}
