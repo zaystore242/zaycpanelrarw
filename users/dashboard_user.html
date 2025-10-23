@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>User Dashboard</title>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/cuser" />
+</head>
+<body>
+  <div class="sidebar" id="sidebar">
+    <div>
+      <h2>USER MENU</h2>
+      <button onclick="createPanel()">CREATE PANEL</button>
+    </div>
+    <div>
+      <button onclick="logout()">LOGOUT</button>
+    </div>
+  </div>
+
+  <header>
+    <button class="toggle-btn" id="toggleBtn">☰</button>
+    <h1>CRAFT PANEL USER</h1>
+    <div style="font-size:8px;color:#79c65f;">👤 <span id="usernameHeader"></span></div>
+  </header>
+
+  <div class="main" id="mainContent">
+    <h1>Welcome, <span id="username"></span>!</h1>
+    <div class="card">
+      <h3>Info Panel</h3>
+      <p>Di Sini Kamu Bisa Membuat Panel Baru Dan Mengelola Server Kamu Dengan Mudah.</p>
+    </div>
+    <div class="card">
+      <h3>Petunjuk</h3>
+      <p>Gunakan tombol "Create Panel" Melalui Sidebar Untuk Membuat Account Panel.</p>
+    </div>
+  </div>
+
+  <script src="/juser"></script>
+</body>
+</html>
