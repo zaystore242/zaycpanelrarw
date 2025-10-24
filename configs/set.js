@@ -1,5 +1,6 @@
 module.exports = {
-  domain: "https://kayzenxsidzzz.pterodactyl-panel.web.id",
-  apikeyptero: "ptla_gkkgNl5OAbUI3GZJiYDjJjLpmwIdE6hf59M1HkuB5GH",
-  capikeyptero: "ptlc_aVwXye4K4Adtb0ERjW0y11cWESYJ3Q5aTrdVrIyWCpV"
+  domain: "https://kurkur.privatesrvr.xyz",
+  apikeyptero: "ptla_lyXcPHFFNNGrYPwEOcDmSzFyC1Ql6jNR33HICQF0qaP",
+  capikeyptero: "ptlc_VNLUxxVE7vsljKPPzyDB1Cuz3SxgS8pi0hFydGMUPbw"
+
 };
