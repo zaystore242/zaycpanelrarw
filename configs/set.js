@@ -1,6 +1,7 @@
 module.exports = {
-  domain: "https://kurkur.privatesrvr.xyz",
-  apikeyptero: "ptla_lyXcPHFFNNGrYPwEOcDmSzFyC1Ql6jNR33HICQF0qaP",
-  capikeyptero: "ptlc_VNLUxxVE7vsljKPPzyDB1Cuz3SxgS8pi0hFydGMUPbw"
+  domain: "https://alluffyhosting.new.server.lightsecretaja.web.id",
+  apikeyptero: "ptla_DZSOPWMkeB4K4TGumM6wC0t6NiUGS4FzMn7LVmRDLsG",
+  capikeyptero: "ptlc_iARLbsAXIQ0sVGvR8pBDAPg7qGVXKTL7ww0uorBxd6a"
 
 };
+
