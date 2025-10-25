@@ -1,8 +1,9 @@
 module.exports = {
-  domain: "https://alluffyhosting.new.server.lightsecretaja.web.id",
-  apikeyptero: "ptla_DZSOPWMkeB4K4TGumM6wC0t6NiUGS4FzMn7LVmRDLsG",
-  capikeyptero: "ptlc_8blDlX0cO45VOsmKFzRzS69fNPl1o9BUW6g1e5zYDy6"
+  domain: "https://public-server.kingstoree.web.id",
+  apikeyptero: "ptla_3AWdNd41JQGm7ZFXR0gaOCWl4sbjQ2vtXKdZXjZS7r8",
+  capikeyptero: "ptlc_1wmDkNUZTWcexa1EFfczCZ5heB8S0C9xEBdjTXf9YJF"
 
 };
+
 
 
