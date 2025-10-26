@@ -1,8 +1,9 @@
 module.exports = {
-  domain: "https://ptero.allzxyprivate-host.my.id",
-  apikeyptero: "ptla_mcCQXJ20BwreeQib70GicczOUGPPePg3sjIkeYx6y6t",
-  capikeyptero: "ptlc_sxvkPKhBPjigmHCFr4XE5yPITXWhETde5xUTZyEwjE5"
+  domain: "https://syahxmasvilpanelpriv.gacorr.biz.id",
+  apikeyptero: "ptla_e7PqBbpw59T0nNA7IxBKFBvxJANPdqsJ4eM13bK6F8i",
+  capikeyptero: "ptlc_fLznkRqQP2R5jVFHDyo3BUHE7ApgXByTODLcEuR0LS1"
 };
+
 
 
 
