@@ -2,7 +2,7 @@ module.exports = {
   users: [
     { username: "tama", password: "123" },
     { username: "Yuzitiw", password: "Yuzitiw23" },
-    { username: "1", password: "1" },
+    { username: "Cris", password: "Cris12" },
     { username: "1", password: "1" },
     { username: "1", password: "1" },
     { username: "1", password: "1" },
@@ -14,5 +14,6 @@ module.exports = {
   ]
 
 };
+
 
 
