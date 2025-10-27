@@ -3,17 +3,14 @@ module.exports = {
     { username: "tama", password: "123" },
     { username: "Yuzitiw", password: "Yuzitiw23" },
     { username: "Cris", password: "Cris12" },
-    { username: "1", password: "1" },
-    { username: "1", password: "1" },
-    { username: "1", password: "1" },
-    { username: "1", password: "1" },
-    { username: "1", password: "1" }
+    { username: "reszay", password: "12" }
   ],
   admins: [
     { username: "Zaystore", password: "241010" },
   ]
 
 };
+
 
 
 
