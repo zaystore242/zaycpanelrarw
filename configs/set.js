@@ -1,8 +1,9 @@
 module.exports = {
   domain: "https://syahxmasvilpanelpriv.gacorr.biz.id",
-  apikeyptero: "ptla_e7PqBbpw59T0nNA7IxBKFBvxJANPdqsJ4eM13bK6F8i",
-  capikeyptero: "ptlc_fLznkRqQP2R5jVFHDyo3BUHE7ApgXByTODLcEuR0LS1"
+  apikeyptero: "ptla_GyvQfDo1361CZNw7G7NnDy2iFdJYMt3NQYocNnQHMkc",
+  capikeyptero: "ptlc_iGwFjf4KmvJrZYHJKXuTfKK07Xruyc2hDSqmmuD3dku"
 };
+
 
 
 
