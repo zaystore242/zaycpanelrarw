@@ -1,8 +1,9 @@
 module.exports = {
-  domain: "https://syahxmasvilpanelpriv.gacorr.biz.id",
-  apikeyptero: "ptla_GyvQfDo1361CZNw7G7NnDy2iFdJYMt3NQYocNnQHMkc",
-  capikeyptero: "ptlc_iGwFjf4KmvJrZYHJKXuTfKK07Xruyc2hDSqmmuD3dku"
+  domain: "https://luffyprivate.rullzalifah.my.id",
+  apikeyptero: "ptla_G1gDsDtfbzCgZI8TVay1fU1X8MtNGecK9VjczCqNHnn",
+  capikeyptero: "ptlc_5svOji9GOefj4T1eTS3vmHsk8dRF3QJU0VlQihEZz5X"
 };
+
 
 
 
