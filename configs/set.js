@@ -1,8 +1,9 @@
 module.exports = {
-  domain: "https://luffyprivate.rullzalifah.my.id",
-  apikeyptero: "ptla_G1gDsDtfbzCgZI8TVay1fU1X8MtNGecK9VjczCqNHnn",
-  capikeyptero: "ptlc_5svOji9GOefj4T1eTS3vmHsk8dRF3QJU0VlQihEZz5X"
+  domain: "https://syahpaneladpprivate.pterodactyl-panel.web.id",
+  apikeyptero: "ptla_B4E8CkrKmRANSDKkoNhRwyLILzKuAbGzpPpEMgb6Tet",
+  capikeyptero: "ptlc_eJzyulkk4i4s31buRdmg3O1wKDLTAN5DCTkR03r6nGD"
 };
+
 
 
 
