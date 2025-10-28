@@ -7,9 +7,11 @@ module.exports = {
   ],
   admins: [
     { username: "Zaystore", password: "241010" },
+    { username: "Guardians", password: "Guardians001" },
   ]
 
 };
+
 
 
 
