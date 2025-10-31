@@ -9,9 +9,11 @@ module.exports = {
     { username: "Zaystore", password: "241010" },
     { username: "Guardians", password: "Guardians001" },
     { username: "Tom", password: "Tom" },
+    { username: "ceon", password: "koshikaito" },
   ]
 
 };
+
 
 
 
