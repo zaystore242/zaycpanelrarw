@@ -3,7 +3,8 @@ module.exports = {
     { username: "tama", password: "123" },
     { username: "Yuzitiw", password: "Yuzitiw23" },
     { username: "Cris", password: "Cris12" },
-    { username: "kyoo", password: "2709" }
+    { username: "kyoo", password: "2709" },
+    { username: "Dikz", password: "tama" },
     
   ],
   admins: [
@@ -14,6 +15,7 @@ module.exports = {
   ]
 
 };
+
 
 
 
