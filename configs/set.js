@@ -1,8 +1,9 @@
 module.exports = {
-  domain: "https://syahadppanelpriv.centzzcloud.my.id",
-  apikeyptero: "ptla_AW619EF0COnrYaR3CGjxbntCl36MzDw4KPXO8a9azdv",
-  capikeyptero: "ptlc_HwI19VdIkv2xBT7zkVj2BxRcsdayYTJ9ZcmIfFDClyD"
+  domain: "https://raflymodestecu.anti-ddos.me",
+  apikeyptero: "ptla_l7AhRkMDLdeBAeqEN680x00YaEXpu2nTipeoTFlsPPv",
+  capikeyptero: "ptlc_pJOda0LHk8dhCEJNXD5Z19iX0XAlNgfAAzOTWgrOPWY"
 };
+
 
 
 
