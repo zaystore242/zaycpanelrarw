@@ -1,8 +1,9 @@
 module.exports = {
-  domain: "https://raflymodestecu.anti-ddos.me",
-  apikeyptero: "ptla_l7AhRkMDLdeBAeqEN680x00YaEXpu2nTipeoTFlsPPv",
-  capikeyptero: "ptlc_pJOda0LHk8dhCEJNXD5Z19iX0XAlNgfAAzOTWgrOPWY"
+  domain: "https://syahgantengbetadpprivate.store-panell.my.id",
+  apikeyptero: "ptla_sI1ToykzahxYCmQn4DiVVQi23EA2w1b24jKNDrVGLaJ",
+  capikeyptero: "ptlc_eIz91boNKNRXNOyAkNJa77FVbyd12YR3hYMDRQMU71H"
 };
+
 
 
 
