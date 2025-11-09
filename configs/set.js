@@ -1,8 +1,9 @@
 module.exports = {
-  domain: "https://syahgantengbetadpprivate.store-panell.my.id",
-  apikeyptero: "ptla_sI1ToykzahxYCmQn4DiVVQi23EA2w1b24jKNDrVGLaJ",
-  capikeyptero: "ptlc_eIz91boNKNRXNOyAkNJa77FVbyd12YR3hYMDRQMU71H"
+  domain: "https://skyhostingfloxz.zakzzdev.tech",
+  apikeyptero: "ptla_w2P8LuzXrLroR4f5kc75hWJbuXqQuCcxugyJp8w5dKQ",
+  capikeyptero: "ptlc_1Qjm1rPCSH92bH1F6X8m1oKEgh4ivbLdyUTGLehKJ3v"
 };
+
 
 
 
