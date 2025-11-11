@@ -1,8 +1,9 @@
 module.exports = {
-  domain: "https://skyhostingfloxz.zakzzdev.tech",
-  apikeyptero: "ptla_w2P8LuzXrLroR4f5kc75hWJbuXqQuCcxugyJp8w5dKQ",
-  capikeyptero: "ptlc_1Qjm1rPCSH92bH1F6X8m1oKEgh4ivbLdyUTGLehKJ3v"
+  domain: "https://raflymodestecu.anti-ddos.me",
+  apikeyptero: "ptla_l7AhRkMDLdeBAeqEN680x00YaEXpu2nTipeoTFlsPPv",
+  capikeyptero: "ptlc_AZJYxPIFh01yatRVcH0nFbS16d9zOa5LQsMTJydj6Rs"
 };
+
 
 
 
